@@ -1,5 +1,12 @@
 {
+  "workspace": {
+    "https://github.com/madhephaestus/MuJoCoTest.git": [
+      "madhephaestus/MuJoCoTest",
+      "1704568438587"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
